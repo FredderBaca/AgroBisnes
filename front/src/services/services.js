@@ -1,1 +1,1 @@
-// Aca se agregarian los servicios generales que se podrian usar en toda la plataforma
+// Aca se agregarian los servicios generales que se podrian usar en toda la plataforma.
